@@ -9,4 +9,4 @@ Web Scrapper básico desarrollado en Python
 # Ejecución
 python3 init_scrapper.py
 
-Al ejecutar el programa se le irán pidiendo una serie datos por teclado. En caso de que sean correctos se realizarán las acciones correspondientes. En caso contrario, la ejecución del programa acabará y se tendrá que reiniciar el proceso.
+Al ejecutar el programa se le irán pidiendo una serie datos por teclado. En caso de que sean correctos se realizarán las acciones correspondientes.
